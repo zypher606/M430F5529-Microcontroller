@@ -7,7 +7,7 @@ int main(void) {
     WDTCTL = WDTPW | WDTHOLD;	// Stop watchdog timer
 	P4DIR |= BIT7; //SETTING OUTPUT TO THE 4.7 LED
 	// P2DIR = 0X00 IS SET DEFAULT
-	P2REN |= BIT1;   // TAKINg register enable; 0-> pull down; 1=> PULL UP
+	P2REN |= BIT1;   // TAKIN
 	P2OUT |= BIT1;
 
 	while(1){
