@@ -3320,3 +3320,520 @@ java.nio.channels.ClosedByInterruptException
 !ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 13:29:58.910
 !MESSAGE DS_ERROR: Error initializing emulator:
 No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:37:15.327
+!MESSAGE DS_ERROR: MSP430: JTAG Communication Error 
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:37:15.350
+!MESSAGE DS_ERROR: MSP430: Breakpoint Manager: Could not write device Register
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:38:13.328
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:38:13.529
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:38:19.914
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:38:20.147
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:38:23.217
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:38:23.254
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:38:31.420
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:38:31.520
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:38:36.560
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:38:36.791
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:38:42.946
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:38:43.046
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:02.074
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:02.243
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:09.431
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:09.646
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:11.544
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:11.620
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:13.459
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:13.459
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:14.402
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:14.402
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:15.107
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:15.122
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:15.356
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:15.360
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:15.507
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:15.507
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:15.638
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:15.655
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:15.777
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:15.777
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:15.893
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:15.908
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:16.161
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:16.177
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:33.250
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:39:33.472
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+!SESSION 2017-03-19 14:39:43.501 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.7.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product com.ti.ccstudio.branding.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ti.ccstudio.branding.product
+
+!ENTRY com.ti.common.core 4 0 2017-03-19 14:39:52.808
+!MESSAGE path=ccs_base/DebugServer
+
+!ENTRY com.ti.common.core 4 0 2017-03-19 14:39:52.823
+!MESSAGE debugServerDir=C:/ti/ccsv6/ccs_base/DebugServer
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-03-19 14:40:42.208
+!MESSAGE Indexed 'DAY 2' (1 sources, 4 headers) in 0.804 sec: 844 declarations; 818 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:40:42.545
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:40:42.792
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:40:45.347
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:40:45.364
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:40:46.247
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:40:46.278
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:44:30.587
+!MESSAGE DS_ERROR: MSP430: JTAG Communication Error 
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:45:14.614
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: No USB FET was found
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:45:14.836
+!MESSAGE DS_ERROR: Error initializing emulator:
+No USB FET was found
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:49:02.996
+!MESSAGE DS_ERROR: MSP430: JTAG Communication Error 
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:50:13.148
+!MESSAGE DS_ERROR: MSP430: JTAG Communication Error 
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 14:57:59.793
+!MESSAGE DS_ERROR: MSP430: JTAG Communication Error 
+
+
+!ENTRY com.ti.ccstudio.system.setup.ui 1 0 2017-03-19 14:59:27.568
+!MESSAGE targetCfgPath1=C:/Users/Ashim/user/CCSTargetConfigurations
+
+!ENTRY com.ti.ccstudio.system.setup.ui 1 0 2017-03-19 14:59:27.568
+!MESSAGE targetCfgPath2=C:/Users/Ashim/ti/CCSTargetConfigurations
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:00:32.904
+!MESSAGE DS_ERROR: MSP430: JTAG Communication Error 
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:01:44.085
+!MESSAGE DS_ERROR: MSP430: Can't Run Target CPU: Could not run device (to breakpoint)
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:01:44.085
+!MESSAGE DS_ERROR: MSP430: Trouble Halting Target CPU: Internal error
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:01:44.106
+!MESSAGE DS_ERROR: MSP430: JTAG Communication Error 
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:01:44.107
+!MESSAGE DS_ERROR: MSP430: Breakpoint Manager: Could not write device Register
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:03:46.257
+!MESSAGE DS_ERROR: MSP430: Can't Run Target CPU: Could not run device (to breakpoint)
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:03:46.257
+!MESSAGE DS_ERROR: MSP430: Trouble Halting Target CPU: Internal error
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:03:46.373
+!MESSAGE DS_ERROR: MSP430: JTAG Communication Error 
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:03:46.373
+!MESSAGE DS_ERROR: MSP430: Breakpoint Manager: Could not write device Register
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:04:33.678
+!MESSAGE DS_ERROR: MSP430: JTAG Communication Error 
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:04:35.649
+!MESSAGE DS_ERROR: MSP430: Breakpoint Manager: Could not write device Register
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:06:29.039
+!MESSAGE DS_ERROR: MSP430: Can't Run Target CPU: Could not run device (to breakpoint)
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:06:29.071
+!MESSAGE DS_ERROR: MSP430: Trouble Halting Target CPU: Internal error
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:06:29.102
+!MESSAGE DS_ERROR: MSP430: JTAG Communication Error 
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:06:29.103
+!MESSAGE DS_ERROR: MSP430: Breakpoint Manager: Could not write device Register
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:08:10.219
+!MESSAGE DS_ERROR: MSP430: Can't Run Target CPU: Could not run device (to breakpoint)
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:08:10.220
+!MESSAGE DS_ERROR: MSP430: Trouble Halting Target CPU: Internal error
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:08:10.250
+!MESSAGE DS_ERROR: MSP430: JTAG Communication Error 
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:08:10.251
+!MESSAGE DS_ERROR: MSP430: Breakpoint Manager: Could not write device Register
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:08:34.626
+!MESSAGE DS_ERROR: MSP430: Can't Run Target CPU: Could not run device (to breakpoint)
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:08:34.652
+!MESSAGE DS_ERROR: MSP430: Trouble Halting Target CPU: Internal error
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:08:35.595
+!MESSAGE DS_ERROR: MSP430: JTAG Communication Error 
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:08:35.596
+!MESSAGE DS_ERROR: MSP430: Breakpoint Manager: Could not write device Register
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:12:17.994
+!MESSAGE DS_ERROR: MSP430: Can't Run Target CPU: Could not run device (to breakpoint)
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:12:17.994
+!MESSAGE DS_ERROR: MSP430: Trouble Halting Target CPU: Internal error
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:12:18.032
+!MESSAGE DS_ERROR: MSP430: JTAG Communication Error 
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:12:18.032
+!MESSAGE DS_ERROR: MSP430: Breakpoint Manager: Could not write device Register
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:12:51.408
+!MESSAGE DS_ERROR: MSP430: JTAG Communication Error 
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:13:35.807
+!MESSAGE DS_ERROR: MSP430: Error initializing emulator: One of the connected MSP-FETs / eZ-FETs debuggers needs recovery. Select 'Recover' to start the recovery process.  Note: Only one MSP-FET / eZ-FET debugger can be connected to your system during recovery.
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2017-03-19 15:13:35.923
+!MESSAGE DS_ERROR: Error initializing emulator:
+One of the connected MSP-FETs / eZ-FETs debuggers needs recovery. Select 'Recover' to start the recovery process.
+
+Note: Only one MSP-FET / eZ-FET debugger can be connected to your system during recovery.
+
+!ENTRY org.eclipse.jface 2 0 2017-03-19 15:14:46.898
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-03-19 15:14:46.898
+!MESSAGE A conflict occurred for ALT+CTRL+I:
+Binding(ALT+CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.include.browser,Open Include Browser,
+		Open an include browser on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@82239f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.include.browser,Open Include Browser,
+		Open an include browser on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@82239f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-03-19 15:14:46.898
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.text.rename.element,Rename - Refactoring ,
+		Renames the selected element,
+		Category(org.eclipse.cdt.ui.category.refactoring,Refactor - C++,C/C++ Refactorings,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1f0d674,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.text.rename.element,Rename - Refactoring ,
+		Renames the selected element,
+		Category(org.eclipse.cdt.ui.category.refactoring,Refactor - C++,C/C++ Refactorings,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1f0d674,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-03-19 15:14:46.898
+!MESSAGE A conflict occurred for F3:
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Opens an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@8f7971,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Opens an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@8f7971,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-03-19 15:14:46.898
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.opentype,Open Element,
+		Open an element in an Editor,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@16df12e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.opentype,Open Element,
+		Open an element in an Editor,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@16df12e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-03-19 15:14:46.898
+!MESSAGE A conflict occurred for F4:
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@f53b22,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@f53b22,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-03-19 15:14:46.898
+!MESSAGE A conflict occurred for CTRL+G:
+Binding(CTRL+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.finddecl,Declaration,
+		Searches for declarations of the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1fd5ca6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.finddecl,Declaration,
+		Searches for declarations of the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1fd5ca6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-03-19 15:14:46.898
+!MESSAGE A conflict occurred for CTRL+SHIFT+G:
+Binding(CTRL+SHIFT+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.findrefs,References,
+		Searches for references to the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@cdd3d5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.findrefs,References,
+		Searches for references to the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@cdd3d5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-03-19 15:14:46.898
+!MESSAGE A conflict occurred for ALT+CTRL+H:
+Binding(ALT+CTRL+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.call.hierarchy,Open Call Hierarchy,
+		Opens the call hierarchy for the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@10e52b2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+CTRL+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.call.hierarchy,Open Call Hierarchy,
+		Opens the call hierarchy for the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@10e52b2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-03-19 15:14:46.898
+!MESSAGE A conflict occurred for CTRL+SHIFT+H:
+Binding(CTRL+SHIFT+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.open.type.in.hierarchy,Open Type in Hierarchy,
+		Open a type in the type hierarchy view,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1574475,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.open.type.in.hierarchy,Open Type in Hierarchy,
+		Open a type in the type hierarchy view,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1574475,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)

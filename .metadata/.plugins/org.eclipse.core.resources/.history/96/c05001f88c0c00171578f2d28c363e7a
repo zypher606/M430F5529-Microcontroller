@@ -1,0 +1,27 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+CMD_SRCS += \
+../lnk_msp430f5529.cmd 
+
+C_SRCS += \
+../ADC.c 
+
+OBJS += \
+./ADC.obj 
+
+C_DEPS += \
+./ADC.pp 
+
+C_DEPS__QUOTED += \
+"ADC.pp" 
+
+OBJS__QUOTED += \
+"ADC.obj" 
+
+C_SRCS__QUOTED += \
+"../ADC.c" 
+
+

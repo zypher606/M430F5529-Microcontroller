@@ -1,1 +1,1 @@
-"./pwm.obj" "../lnk_msp430f5529.cmd" -l"libmath.a" -l"libc.a" 
+"./USCI.obj" "../lnk_msp430f5529.cmd" -l"libmath.a" -l"libc.a" 
