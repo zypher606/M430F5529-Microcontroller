@@ -1,0 +1,30 @@
+#include <msp430f5529.h>
+
+int main(void) {
+    WDTCTL = WDTPW | WDTHOLD;	// Stop watchdog timer
+
+    P1DIR |= BIT0;  //SET P1  TO OUTPUT DIRECTION
+    P1IE |= BIT1; // P1.1 Interrupt enabled
+
+    P2IE |= BIT1; // P1.1 Interrupt enabled
+
+    P1IES |= BIT1; //P1.1 HI/LO  edge; interrupt edge select;
+    P1IFG &= ~BIT1; //P1.1 IFG cleared
+    _BIS_SR(GIE);  //Enter LPM4 w/ interrupt
+
+}
+
+
+
+#pragma vector = PORT1_VECTOR
+#pragma vector = PORT2_VECTOR
+
+__interrupt void Port_1(void){
+	P1OUT ^= BIT0;
+	P1IFG &= ~BIT1;
+}
+
+
+
+
+// FOR GOUP INTERRUPT SOURCES, WE NEED TO CLEAR THE INTERRUPT FLAGS MANUALLY

@@ -8,7 +8,7 @@ int main(void) {
 	P4DIR |= BIT7; //SETTING OUTPUT TO THE 4.7 LED
 	// P2DIR = 0X00 IS SET DEFAULT
 	P2REN |= BIT1;   // TAKINg register enable; 0-> pull down; 1=> PULL UP
-	P2OUT |= BIT1;
+	P2OUT |= BIT1;   //SETTING OUTPUT AS 1
 
 	while(1){
 		if(!(P2IN & BIT1)){  // PIN2 AND  00000010 => CHECK IF 2.1 IS HIGH OR NOT

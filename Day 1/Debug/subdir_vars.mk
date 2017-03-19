@@ -7,21 +7,21 @@ CMD_SRCS += \
 ../lnk_msp430f5529.cmd 
 
 C_SRCS += \
-../main.c 
+../interrupt.c 
 
 OBJS += \
-./main.obj 
+./interrupt.obj 
 
 C_DEPS += \
-./main.pp 
+./interrupt.pp 
 
 C_DEPS__QUOTED += \
-"main.pp" 
+"interrupt.pp" 
 
 OBJS__QUOTED += \
-"main.obj" 
+"interrupt.obj" 
 
 C_SRCS__QUOTED += \
-"../main.c" 
+"../interrupt.c" 
 
 

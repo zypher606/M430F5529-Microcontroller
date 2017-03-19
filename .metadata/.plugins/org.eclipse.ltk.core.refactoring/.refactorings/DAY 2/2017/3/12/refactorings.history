@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;DAY 2/conditional_delay,c&apos; to &apos;conditional_delay.c&apos;" description="Rename resource &apos;conditional_delay,c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="conditional_delay,c" name="conditional_delay.c" stamp="1489906965427" updateReferences="true"/>
+</session>

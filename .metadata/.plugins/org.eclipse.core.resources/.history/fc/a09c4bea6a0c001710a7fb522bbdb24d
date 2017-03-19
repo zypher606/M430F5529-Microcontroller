@@ -1,0 +1,27 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+CMD_SRCS += \
+../lnk_msp430f5529.cmd 
+
+C_SRCS += \
+../timerInterrupt.c 
+
+OBJS += \
+./timerInterrupt.obj 
+
+C_DEPS += \
+./timerInterrupt.pp 
+
+C_DEPS__QUOTED += \
+"timerInterrupt.pp" 
+
+OBJS__QUOTED += \
+"timerInterrupt.obj" 
+
+C_SRCS__QUOTED += \
+"../timerInterrupt.c" 
+
+

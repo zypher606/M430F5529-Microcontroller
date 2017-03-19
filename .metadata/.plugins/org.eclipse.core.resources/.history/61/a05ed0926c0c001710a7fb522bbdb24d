@@ -1,0 +1,55 @@
+#include <msp430f5529.h>
+
+int main(void) {
+    WDTCTL = WDTPW | WDTHOLD;	// Stop watchdog timer
+
+    P1DIR |= BIT0;  //SET P1  TO OUTPUT DIRECTION
+    P4DIR |= BIT7;
+
+    //P1IE |= BIT1; // P1.1 Interrupt enabled
+
+    P2IE |= BIT1; // P1.1 Interrupt enabled
+
+    P2IES |= BIT1; //P1.1 HI/LO  edge; interrupt edge select;
+    P2IFG &= ~BIT1; //P1.1 IFG cleared
+
+
+    P1OUT |= BIT0;
+    P4OUT |= ~BIT7;
+
+	// P2DIR = 0X00 IS SET DEFAULT
+//	P2REN |= BIT1;   // TAKINg register enable; 0-> pull down; 1=> PULL UP
+//	P2OUT |= BIT1;   //SETTING OUTPUT AS 1
+//
+//	while(1){
+//		if(P2IFG){  // PIN2 AND  00000010 => CHECK IF 2.1 IS HIGH OR NOT
+//			P1OUT ^= BIT0;
+//			P2IFG &= ~BIT1;// TURN ON THE LED IF 2.1 IS HIGH OR P4OUT |= BIT7
+//		}
+//		else{
+//			//P4OUT = P4OUT & ~BIT7; // OR P4OUT &= ~BIT7
+//		}
+//	}
+    _BIS_SR(GIE);  //Enter LPM4 w/ interrupt
+    while(1)
+    {}
+
+
+}
+
+
+
+#pragma vector = PORT1_VECTOR
+#pragma vector = PORT2_VECTOR
+
+__interrupt void Port_1(void){
+	P1OUT ^= BIT0;
+	P4OUT ^= BIT7;
+	P1IFG &= ~BIT1;
+
+}
+
+
+
+
+// FOR GOUP INTERRUPT SOURCES, WE NEED TO CLEAR THE INTERRUPT FLAGS MANUALLY
