@@ -86,7 +86,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ADC.c|inturreptButton.c|pwm.c|conditional_delay.c|main.c|1_sec_delay_ACLK.c|timerInterrupt.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="USCI.c|ADC.c|inturreptButton.c|pwm.c|conditional_delay.c|main.c|1_sec_delay_ACLK.c|timerInterrupt.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
